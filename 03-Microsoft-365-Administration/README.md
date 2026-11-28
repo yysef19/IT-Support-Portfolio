@@ -1,7 +1,11 @@
 03-Microsoft-365-Administration/
-├── README.md                          # الواجهة الرئيسية + Hybrid Architecture Diagram + جدول المكونات
-├── M365-Hybrid-Walkthrough.md         # التوثيق التفصيلي الشامل مقسم إلى 5 أقسام متسلسلة
+
+├── README.md   
+
+├── M365-Hybrid-Walkthrough.md   
+
 └── M365-Screenshots/
+
     ├── 01-Microsoft-365/              # إدارة التراخيص والمستخدمين
     ├── 02-Entra-ID/                   # المزامنة الهجينة، الجروبات، والأمان
     ├── 03-Exchange/                   # البريد المشترك وصلاحيات الإرسال وقواعد النقل
