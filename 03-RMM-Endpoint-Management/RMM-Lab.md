@@ -103,4 +103,4 @@ Resolve pending system restart flags (`Reboot: Required`) on critical server inf
 | Module | Relationship to RMM Lab |
 | :--- | :--- |
 | **[`01-Windows-Helpdesk-Lab`](../01-Windows-Helpdesk-Lab)** | Provides the underlying Active Directory domain (`karem.com`), DNS resolution, and SMB share (`\\ALX-DC-01\IT_Files`) used for agent rollout. |
-| **[`04-IT-Support-Tickets`](../04-IT-Support-Tickets)** | Tracks formal Tier 1 / Tier 2 incident resolution for the critical CVEs, NTFS/Share permission lockouts, and DNS configuration issues encountered in this environment. |
+| **[`04-IT-Support-Tickets`](../04-IT-Support-Tickets)** | Tracks formal Tier 1 / Tier 2 incident resolution for the critical CVEs. |
