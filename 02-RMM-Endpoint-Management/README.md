@@ -73,6 +73,8 @@ flowchart TB
 
 ---
 
-## 🎫 Next Step: Live Testing & Support Tickets
+### ☁️ Microsoft 365 & Hybrid Cloud Integration
+Directory synchronization via Entra Connect, Microsoft 365 licensing, Exchange Online, Teams governance, and Intune MDM enrollment for this domain are documented in [`03-Microsoft-365-Administration`](../03-Microsoft-365-Administration).
 
-All critical vulnerabilities and real-world operational hurdles identified across the Active Directory and RMM environments—including **Critical CVE patch remediation** are documented as structured support tickets in **[`04-IT-Support-Tickets`](../04-IT-Support-Tickets)**.
+### 🎫 Next Step: Live Testing & Support Tickets
+Critical vulnerabilities and operational hurdles across the AD and RMM environments—including Critical CVE patch remediation—are documented as structured support tickets in [`04-IT-Support-Tickets`](../04-IT-Support-Tickets).
