@@ -55,6 +55,8 @@ This lab documents the ground-up setup and administration of a corporate Windows
 
 ---
 
-## 🎫 Next Step: Live Testing & Support Tickets
+### 🛠️ RMM & Endpoint Management Integration
+Centralized remote monitoring, automated patch deployment, and vulnerability remediation for `ALX-DC-01` and `DESKTOP-P80NB90` via Action1 RMM are documented in [`02-RMM-Patch-Management`](../02-RMM-Patch-Management).
 
-All practical testing scenarios, user troubleshooting, and incident resolution logs for this environment are documented separately in **[`04-IT-Support-Tickets`](../04-IT-Support-Tickets/)**.
+### 🎫 Next Step: Live Testing & Support Tickets
+Practical troubleshooting scenarios and incident resolution logs for this environment are documented separately in [`04-IT-Support-Tickets`](../04-IT-Support-Tickets).
